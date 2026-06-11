@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ignorar ambiente portatil do Windows e banco de dados
+python_portatil/
+*.db
